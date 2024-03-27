@@ -1,0 +1,5 @@
+feature1,feature2,xor_rmst,xor_interaction_score,string_evidence,biogrid_evidence
+MAN2A2,HIST1H2BK,163.63178,150.33211,0,0
+BECN1,PKIG,164.63553,144.97081,0,0
+PMM2,USP7,161.29808,143.27814,1,0
+FBXO7,HIST1H2BK,162.24235,135.32368,0,0

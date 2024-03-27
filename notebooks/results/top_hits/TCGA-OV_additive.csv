@@ -1,0 +1,5 @@
+feature1,feature2,additive_rmst,additive_interaction_score,string_evidence,biogrid_evidence
+DNAJC15,NR1H2,226.93371,151.78409,0,0
+LHPP,KDELR2,216.7872,139.69217,0,0
+DLD,VAT1,236.28241,128.22912,1,1
+MYBL2,LHPP,216.05083,126.924,0,0

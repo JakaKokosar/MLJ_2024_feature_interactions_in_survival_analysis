@@ -1,0 +1,5 @@
+feature1,feature2,additive_rmst,additive_interaction_score,string_evidence,biogrid_evidence
+LSM5,ALMS1,176.8181,116.30384,0,0
+LSM5,ZC3H4,183.14626,109.76052,0,0
+HLF,SLC1A4,167.58634,106.68284,0,0
+HLF,FAM162A,167.46039,97.30072,0,0

@@ -1,0 +1,5 @@
+feature1,feature2,additive_rmst,additive_interaction_score,string_evidence,biogrid_evidence
+MBNL1,MRPS16,104.3067,70.74829,0,0
+ZBTB5,TMED10,107.13541,69.76199,0,0
+PPP2R5A,ZBTB5,107.58311,64.32434,0,0
+LPAR2,IKBKE,111.59356,64.16193,0,0
