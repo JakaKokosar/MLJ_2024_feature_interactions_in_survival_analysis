@@ -1,0 +1,1 @@
+For computation we  leveraged the capabilities of the Slovenian National Supercomputing Network (https://www.sling.si/en/). We provide SLURM configuration to run scripts on HPC clusters. However, the scripts can be easily adapted to run on a single machine.
